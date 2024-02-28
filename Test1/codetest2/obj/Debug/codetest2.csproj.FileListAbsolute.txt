@@ -1,0 +1,6 @@
+D:\LavanyaDileep\Infinite\B3\Test1\codetest2\bin\Debug\codetest2.exe.config
+D:\LavanyaDileep\Infinite\B3\Test1\codetest2\bin\Debug\codetest2.exe
+D:\LavanyaDileep\Infinite\B3\Test1\codetest2\bin\Debug\codetest2.pdb
+D:\LavanyaDileep\Infinite\B3\Test1\codetest2\obj\Debug\codetest2.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Test1\codetest2\obj\Debug\codetest2.exe
+D:\LavanyaDileep\Infinite\B3\Test1\codetest2\obj\Debug\codetest2.pdb
