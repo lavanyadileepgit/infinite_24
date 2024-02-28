@@ -1,2 +1,0 @@
-this is a sample file to understand git operations
-this is my first file
