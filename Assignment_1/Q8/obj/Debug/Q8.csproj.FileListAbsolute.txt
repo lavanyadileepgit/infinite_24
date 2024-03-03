@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\bin\Debug\Q8.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\bin\Debug\Q8.exe
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\bin\Debug\Q8.pdb
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\obj\Debug\Q8.exe
+D:\LavanyaDileep\Infinite\B3\Assignment\Q8\obj\Debug\Q8.pdb

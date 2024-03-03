@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\bin\Debug\Q10.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\bin\Debug\Q10.exe
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\bin\Debug\Q10.pdb
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\obj\Debug\Q10.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\obj\Debug\Q10.exe
+D:\LavanyaDileep\Infinite\B3\Assignment\Q10\obj\Debug\Q10.pdb

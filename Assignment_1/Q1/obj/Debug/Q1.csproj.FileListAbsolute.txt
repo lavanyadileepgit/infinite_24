@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\bin\Debug\Q1.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\bin\Debug\Q1.exe
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\bin\Debug\Q1.pdb
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\obj\Debug\Q1.exe
+D:\LavanyaDileep\Infinite\B3\Assignment\Q1\obj\Debug\Q1.pdb
