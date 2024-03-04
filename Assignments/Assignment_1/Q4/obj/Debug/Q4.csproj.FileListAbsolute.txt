@@ -1,7 +1,0 @@
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\bin\Debug\Q4.exe.config
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\bin\Debug\Q4.exe
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\bin\Debug\Q4.pdb
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\obj\Debug\Q4.exe
-D:\LavanyaDileep\Infinite\B3\Assignment\Q4\obj\Debug\Q4.pdb

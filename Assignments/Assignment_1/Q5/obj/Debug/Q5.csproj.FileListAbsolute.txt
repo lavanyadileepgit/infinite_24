@@ -1,7 +1,0 @@
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\obj\Debug\Q5.csproj.AssemblyReference.cache
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\bin\Debug\Q5.exe.config
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\bin\Debug\Q5.exe
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\bin\Debug\Q5.pdb
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\obj\Debug\Q5.exe
-D:\LavanyaDileep\Infinite\B3\Assignment\Q5\obj\Debug\Q5.pdb

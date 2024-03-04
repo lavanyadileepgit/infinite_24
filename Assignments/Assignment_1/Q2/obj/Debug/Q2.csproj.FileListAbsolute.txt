@@ -1,7 +1,0 @@
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\bin\Debug\Q2.exe.config
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\bin\Debug\Q2.exe
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\bin\Debug\Q2.pdb
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\obj\Debug\Q2.exe
-D:\LavanyaDileep\Infinite\B3\Assignment\Q2\obj\Debug\Q2.pdb
