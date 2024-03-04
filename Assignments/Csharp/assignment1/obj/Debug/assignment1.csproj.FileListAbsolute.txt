@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\bin\Debug\test1.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\bin\Debug\test1.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\bin\Debug\test1.pdb
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\obj\Debug\test1.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\test1\obj\Debug\test1.pdb
