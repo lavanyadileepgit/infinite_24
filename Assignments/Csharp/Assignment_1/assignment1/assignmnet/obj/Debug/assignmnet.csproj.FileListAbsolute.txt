@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\obj\Debug\assignmnet.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\obj\Debug\assignmnet.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\bin\Debug\assignmnet.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\bin\Debug\assignmnet.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\bin\Debug\assignmnet.pdb
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\obj\Debug\assignmnet.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\Assignment_1\assignment1\assignmnet\obj\Debug\assignmnet.pdb
