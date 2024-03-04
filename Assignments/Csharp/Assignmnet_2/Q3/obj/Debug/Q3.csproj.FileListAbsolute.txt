@@ -1,7 +1,0 @@
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\bin\Debug\Q3.exe.config
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\bin\Debug\Q3.exe
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\bin\Debug\Q3.pdb
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\obj\Debug\Q3.exe
-D:\LavanyaDileep\Infinite\B3\assignmnets\Assignmnet_2\Q3\obj\Debug\Q3.pdb
