@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\obj\Debug\assignmnet3.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\obj\Debug\assignmnet3.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\bin\Debug\assignmnet3.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\bin\Debug\assignmnet3.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\bin\Debug\assignmnet3.pdb
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\obj\Debug\assignmnet3.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignmnet3\obj\Debug\assignmnet3.pdb

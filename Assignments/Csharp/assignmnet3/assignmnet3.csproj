@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7F1781B3-3878-4D0A-A58C-D5B5ED7455DA}</ProjectGuid>
+    <ProjectGuid>{E6924844-6D63-4F75-9ABE-8B8311588AB5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>codetest2</RootNamespace>
-    <AssemblyName>codetest2</AssemblyName>
+    <RootNamespace>assignmnet3</RootNamespace>
+    <AssemblyName>assignmnet3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Program</StartupObject>
+    <StartupObject>assignmnet3.properties</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,8 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="count.cs" />
+    <Compile Include="exception1.cs" />
+    <Compile Include="exception2.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
