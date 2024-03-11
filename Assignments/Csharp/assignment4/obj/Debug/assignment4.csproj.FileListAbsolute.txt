@@ -1,0 +1,10 @@
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\bin\Debug\assignment4.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\bin\Debug\assignment4.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\bin\Debug\assignment4.pdb
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\bin\Debug\TicketConcession.dll
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\bin\Debug\TicketConcession.pdb
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\obj\Debug\assignment4.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\obj\Debug\assignment4.csproj.CopyComplete
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\obj\Debug\assignment4.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment4\obj\Debug\assignment4.pdb
