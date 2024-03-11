@@ -1,6 +1,0 @@
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment 4\concession\bin\Debug\concession.dll
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment 4\concession\bin\Debug\concession.pdb
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment 4\concession\obj\Debug\concession.csproj.AssemblyReference.cache
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment 4\concession\obj\Debug\concession.csproj.CoreCompileInputs.cache
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment 4\concession\obj\Debug\concession.dll
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\assignment 4\concession\obj\Debug\concession.pdb
