@@ -1,5 +1,0 @@
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\TicketConcession\bin\Debug\TicketConcession.dll
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\TicketConcession\bin\Debug\TicketConcession.pdb
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\TicketConcession\obj\Debug\TicketConcession.csproj.CoreCompileInputs.cache
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\TicketConcession\obj\Debug\TicketConcession.dll
-D:\LavanyaDileep\Infinite\B3\Assignments\Csharp\TicketConcession\obj\Debug\TicketConcession.pdb

@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Concession
+namespace ConsoleApp1
 {
-    public class TicketConcession
+    class square
     {
-        public static void Query1()
+        static void Main(string[] args)
         {
             Console.Write("Enter a list of numbers (comma-separated): ");
             string input = Console.ReadLine();
-
-            List<int> numbers = input.Split(new[] { ", " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+            List<int> numbers = input.Split(',').Select(int.Parse).ToList();
 
             var query = numbers.Select(n => new { Number = n, Square = n * n })
                                .Where(x => x.Square > 20)
@@ -21,8 +20,8 @@ namespace Concession
 
             foreach (var item in query)
             {
+                Console.WriteLine(item);
             }
         }
     }
 }
-
