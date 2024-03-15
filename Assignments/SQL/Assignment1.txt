@@ -56,11 +56,8 @@ insert into tblEmployee(empno, ename, job, salary, deptno)values
 alter table tblProject
 drop column Actual_End_date;
 
--- Add a new column with the same name and data type
 alter table tblproject
 ADD actual_end_date date
-
--- Now you can insert values into the Actual_End_date column
 update tblProject
 set actual_end_date = '2011-10-31'
 where ProjectID = 401;
