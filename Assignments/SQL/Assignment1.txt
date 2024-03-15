@@ -19,7 +19,7 @@ create table tblproject(projectID int primary key,
 descr varchar(20) not null,
 start_date date,
 planned_end_date date ,
-actual_end_date as convert( date , getdate()),--check actual_end_date > planned_end_date,
+actual_end_date as convert( date , getdate()),
 Budget varchar(10) check (Budget > 0),
 clientid int foreign key references tblclient(clientID)) 
 create table tblempproject(projectid int ,
