@@ -1,10 +1,10 @@
 create database assignment2
 use assignment2
-create table tbldept(deptno int primary key,
+create table dept(deptno int primary key,
 dname varchar(30),
 loc varchar(30))
 
-create table tblemp(empno int primary key,
+create table emp(empno int primary key,
 ename varchar(30),
 job varchar(30),
 mgr_id int ,
@@ -51,7 +51,7 @@ select *,sal*1.1 as updated_sal from tblemp where deptno = 20
 --5
 select count(*) as clerks_employed from tblemp where job='clerk'
 --6
-Select job,avg(sal) as 'average',count(*) as 'employee'
+Select avg(sal) as 'average',count(*)'employee',job
 from tblemp group by job
 --7
 select * from tblemp where sal= (select min(sal) from tblemp) or sal= (select max(sal) from tblemp)
@@ -69,32 +69,8 @@ select ename from tblemp where ename like 'A%' or ename like 'M%' group by ename
 --13
 select ename , sal*12 as yearly_salary from tblemp where  ename = 'smith'
 --14
-select sal,ename from tblemp where sal not in(select sal from tblemp where sal in(1500,2850))
+select sal,ename from tblemp where sal not in(select sal from tblemp where sal between 1500 and 2850)
 --15
 select e.mgr_id,m.ename as mgrname from tblemp e join tblemp m on e.mgr_id = m.empno group by e.mgr_id , m.ename having count(*) >2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
