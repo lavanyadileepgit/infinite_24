@@ -14,7 +14,7 @@ namespace codetest3
             Console.Write("enter the text to be appended: ");
             string text = Console.ReadLine();
 
-            string filename = "append.txt";
+            string filename = "appendd.txt";
             FileStream fileStream = null;
 
             try
