@@ -87,8 +87,8 @@ where empid = 1
 --updation
 update emp
 set ename = 'dileep'
-where empid = 1
+where empid = 2
 and ename = 'lav'
-delete from emp where ename ='dileep'
+
 
 
