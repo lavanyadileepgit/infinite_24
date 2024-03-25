@@ -45,7 +45,7 @@ exec multiplicationtable 5
 
 create table holiday (
     holiday_date date primary key,
-    holiday_name varchar(100)
+    holiday_name varchar(20)
 )
 drop table holiday
 insert into holiday values
@@ -62,7 +62,7 @@ on emp
 for insert, update, delete
 as
 begin
-    declare @holidayName varchar(100)
+    declare @holidayName varchar(20)
  
     select @holidayName = holiday_name 
     from holiday 
