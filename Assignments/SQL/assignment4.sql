@@ -18,7 +18,7 @@ begin
         set @i = @i + 1
     end
 
-    print 'the factorial of ' + cast(@n as varchar(10)) + ' is ' + cast(@f as varchar(50));
+    print 'the factorial of ' + cast(@n as varchar(10)) + ' is ' + cast(@f as varchar(50))
 end
 
 
