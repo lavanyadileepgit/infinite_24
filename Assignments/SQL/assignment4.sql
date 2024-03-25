@@ -2,7 +2,7 @@ create database assignment4
 use assignment4
 --Write a T-SQL Program to find the factorial of a given number.
 
-declare @n int = 10, @f int = 1, @i int = 1
+declare @n int = 5, @f int , @i int 
 set @f = 1
 set @i = 1
 
