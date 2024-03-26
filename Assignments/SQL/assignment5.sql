@@ -5,7 +5,7 @@ create table employee(empid int primary key , ename varchar(20),salary float)
 insert into employee values(1,'Sejal',25000),(2,'Tom',10000),(3,'manu',15000)
 drop table employee
 select * from employee
-emppayslip 3
+
 create or alter procedure emppayslip @eid int
 as
 begin
@@ -20,6 +20,8 @@ begin
 	select @eid as empid,ename ,@sal as  salary , @hra as HRA,@da as DA,@pf as PF,@it as IT,@deductions as DEDUCTIONS, 
 	@grosssal as GROSSSAL , @netsal as NETSALARY from employee where empid =@eid
 end
+
+emppayslip 3
 
 
 
