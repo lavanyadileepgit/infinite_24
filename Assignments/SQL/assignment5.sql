@@ -22,7 +22,10 @@ begin
 end
 
 emppayslip 3
-
+select * from region
+delete from region where regionid =8
+select * from shippers
+update region set RegionDescription ='Eastern' where regionid=49
 
 
 
