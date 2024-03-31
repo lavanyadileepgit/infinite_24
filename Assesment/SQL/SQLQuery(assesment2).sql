@@ -137,8 +137,7 @@ end
 
 select empno, ename, sal, hiredate, dbo.CalculateBonus(sal, deptno) as Bonus
 from Emp
-where deptno = 10
-
+where deptno = 10 
 
 --output
 --empno	ename	sal	    hiredate	    Bonus

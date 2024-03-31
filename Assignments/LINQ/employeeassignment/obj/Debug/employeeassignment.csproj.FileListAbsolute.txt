@@ -1,0 +1,7 @@
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\obj\Debug\employeeassignment.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\obj\Debug\employeeassignment.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\bin\Debug\employeeassignment.exe.config
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\bin\Debug\employeeassignment.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\bin\Debug\employeeassignment.pdb
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\obj\Debug\employeeassignment.exe
+D:\LavanyaDileep\Infinite\B3\Assignments\LINQ\employeeassignment\obj\Debug\employeeassignment.pdb
