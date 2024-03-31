@@ -122,8 +122,8 @@ namespace employeeassignment
                 Console.WriteLine("{0} {1} {2} {3} {4} {5} {6}", emp.EmployeeID, emp.firstname, emp.Lastname, emp.Title, emp.Dob, emp.Doj, emp.City);
 
             }
-            Console.WriteLine();
-            Console.WriteLine("employee's whose dob is after '01-01-1990' is: ");
+        Console.WriteLine();
+        Console.WriteLine("employee's whose dob is after '01-01-1990' is: ");
         
             var emp2 = from emp in employeelist
                        where emp.Dob > new DateTime(1990, 1, 1)
@@ -133,8 +133,8 @@ namespace employeeassignment
                 Console.WriteLine("{0} {1} {2} {3} {4} {5} {6}",emp.EmployeeID,emp.firstname,emp.Lastname,emp.Title,emp.Dob,emp.Doj,emp.City);
                 
             }
-            Console.WriteLine();
-            Console.WriteLine("employee's whose designation is consultant or assoicate is :");
+        Console.WriteLine();
+        Console.WriteLine("employee's whose designation is consultant or assoicate is :");
             var emp3=from emp in employeelist
                      where emp.Title =="Consultant" ||emp.Title=="Associate"
                      select emp;
@@ -142,10 +142,10 @@ namespace employeeassignment
             {
                 Console.WriteLine("{0} {1} {2} {3} {4} {5} {6}", emp.EmployeeID, emp.firstname, emp.Lastname, emp.Title, emp.Dob, emp.Doj, emp.City);
             }
-            Console.WriteLine();
-            Console.WriteLine("total count of employee's are : {0}",employeelist.Count());
-            Console.WriteLine();
-            Console.WriteLine("total number of employee's belonging to chennai as as follows:");
+        Console.WriteLine();
+        Console.WriteLine("total count of employee's are : {0}",employeelist.Count());
+        Console.WriteLine();
+        Console.WriteLine("total number of employee's belonging to chennai as as follows:");
             var emp4 = from emp in employeelist
                        where emp.City == "Chennai"
                        select emp;
@@ -153,14 +153,14 @@ namespace employeeassignment
             {
                 Console.WriteLine("{0} {1} {2} {3} {4} {5} {6}", emp.EmployeeID, emp.firstname, emp.Lastname, emp.Title, emp.Dob, emp.Doj, emp.City);
             }
-            Console.WriteLine();
-            Console.WriteLine("Highest employee id from the employee list are as follows: {0} ", employeelist.Max(emp => emp.EmployeeID));
-            Console.WriteLine();
-            Console.WriteLine( "total no. of employee's joined after '01/01/2015 is : {0}",employeelist.Count(emp=>emp.Doj> new DateTime(2015,1,1)));
-            Console.WriteLine();
-            Console.WriteLine("total no. of employee's whose designation is not associate is {0} : ",employeelist.Count(emp=>emp.Title!="Associate"));
-            Console.WriteLine();
-            Console.WriteLine("total no. of employee's based on city :");
+        Console.WriteLine();
+        Console.WriteLine("Highest employee id from the employee list are as follows: {0} ", employeelist.Max(emp => emp.EmployeeID));
+        Console.WriteLine();
+        Console.WriteLine( "total no. of employee's joined after '01/01/2015 is : {0}",employeelist.Count(emp=>emp.Doj> new DateTime(2015,1,1)));
+        Console.WriteLine();
+        Console.WriteLine("total no. of employee's whose designation is not associate is {0} : ",employeelist.Count(emp=>emp.Title!="Associate"));
+        Console.WriteLine();
+        Console.WriteLine("total no. of employee's based on city :");
             var emp5 = from e in employeelist
                          group e by e.City into g
                          select new { City = g.Key, Count = g.Count() };
@@ -170,32 +170,21 @@ namespace employeeassignment
                 Console.WriteLine($"{r.City}: {r.Count}");
             }
             Console.WriteLine();
-            Console.WriteLine("");
-            Console.WriteLine("total no. of employee's based on city and title :");
-            var emp6 = from e in employeelist
-                       group e by e.City into g 
-                       select new { City = g.Key, Count = g.Count() };
-
-            foreach (var r in emp5)
-            {
-                Console.WriteLine($"{r.City}: {r.Count}");
-            }
-            Console.WriteLine();
-            Console.WriteLine("Total number of employees in each city and title:");
-            var emp7 = from emp in employeelist
+        Console.WriteLine("Total number of employees in each city and title:");
+            var emp6 = from emp in employeelist
                          group emp by new { emp.City, emp.Title } into g
                          select new { City = g.Key.City, Title = g.Key.Title, Count = g.Count() };
-            foreach (var city in emp7)
+            foreach (var city in emp6)
             {
                 Console.WriteLine("{0} {1}: {2}", city.City, city.Title, city.Count);
             }
-            Console.WriteLine();
-            Console.WriteLine("The youngest employee in the list is: ");
-            var emp8 = (from emp in employeelist
+        Console.WriteLine();
+        Console.WriteLine("The youngest employee in the list is: ");
+            var emp7 = (from emp in employeelist
                           orderby emp.Dob
                           select emp).First();
-            Console.WriteLine("{0} {1} {2} {3} ",emp8.EmployeeID,emp8.firstname,emp8.Lastname,emp8.Title);
-            Console.Read();
+        Console.WriteLine("{0} {1} {2} {3} ",emp7.EmployeeID,emp7.firstname,emp7.Lastname,emp7.Title);
+        Console.Read();
         }
     }
 }
