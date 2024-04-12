@@ -32,13 +32,15 @@ namespace employee
                         command.Parameters.AddWithValue("@emptype",type );
 
                         command.ExecuteNonQuery();
-                        Console.WriteLine("Employee added successfully.");
+                    Console.WriteLine();
+                        Console.WriteLine("Employee added successfully : )");
                     }
 
                     connection.Close();
                 }
+            Console.WriteLine();
 
-            
+
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
@@ -49,12 +51,13 @@ namespace employee
                     Console.WriteLine("Empno\tEmpName\t\tEmpsal\tEmptype");
                     while (reader.Read())
                     {
-                        Console.WriteLine(reader["Empno"] + "\t" + reader["EmpName"] + "\t" + reader["Empsal"] + "\t" + reader["Emptype"]);
+                        Console.WriteLine($"{reader["Empno"]}\t{reader["EmpName"],-15}\t{reader["Empsal"]}\t{reader["Emptype"]}");
                     }
                 }
 
                 connection.Close();
             }
+
 
 
             Console.ReadLine(); 

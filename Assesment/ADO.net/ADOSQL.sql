@@ -29,6 +29,8 @@ END
 exec addemployee 'Lavanya', 50000.00 , 'P'
 
 ----------------------------------------------------------------------------------------
---100	Lavanya Dileep	50000	P
---101	Ramya Shree	    30000	C
---102	Hema	        40000	P
+--100	Lavanya Dileep	 50000	P
+--101	Ramya Shree	     30000	C
+--102	Hema	         40000	P
+--103	Dileep Ramesh	100000	P
+--104	Devi	         50000	C
