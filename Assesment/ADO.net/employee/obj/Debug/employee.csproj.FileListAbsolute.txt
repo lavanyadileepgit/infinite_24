@@ -1,0 +1,10 @@
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\bin\Debug\employee.exe.config
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\bin\Debug\employee.exe
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\bin\Debug\employee.pdb
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\bin\Debug\System.Data.SqlClient.dll
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\bin\Debug\System.Data.SqlClient.xml
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\obj\Debug\employee.csproj.CopyComplete
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\obj\Debug\employee.exe
+D:\LavanyaDileep\Infinite\B3\Assesment\ADO.net\employee\obj\Debug\employee.pdb
