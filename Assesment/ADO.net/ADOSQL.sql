@@ -15,7 +15,7 @@ delete from Employee_Details where empno=103
 CREATE OR ALTER PROCEDURE addemployee
 (
     @name VARCHAR(20),
-    @empsal DECIMAL,
+    @empsal float,
     @emptype CHAR(1)
 )
 AS
