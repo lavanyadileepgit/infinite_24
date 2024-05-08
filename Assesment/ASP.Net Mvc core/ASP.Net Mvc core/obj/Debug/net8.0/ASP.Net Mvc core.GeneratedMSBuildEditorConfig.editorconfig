@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.Net_Mvc_core
+build_property.RootNamespace = ASP.Net_Mvc_core
+build_property.ProjectDir = D:\LavanyaDileep\Infinite\B3(new)\Assesment\ASP.Net Mvc core\ASP.Net Mvc core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\LavanyaDileep\Infinite\B3(new)\Assesment\ASP.Net Mvc core\ASP.Net Mvc core
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Order/DisplayBill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGlzcGxheUJpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Order/DisplayCustomerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGlzcGxheUN1c3RvbWVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Order/PlaceOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGxhY2VPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Order/ShowCustomerWithHighestOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcU2hvd0N1c3RvbWVyV2l0aEhpZ2hlc3RPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Order/ShowOrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcU2hvd09yZGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LavanyaDileep/Infinite/B3(new)/Assesment/ASP.Net Mvc core/ASP.Net Mvc core/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zrz0b27dgo
